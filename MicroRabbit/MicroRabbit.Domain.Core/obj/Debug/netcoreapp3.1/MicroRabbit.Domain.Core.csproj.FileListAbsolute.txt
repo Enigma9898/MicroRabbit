@@ -6,3 +6,4 @@ C:\Users\M1049305\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\o
 C:\Users\M1049305\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 C:\Users\M1049305\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 C:\Users\M1049305\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\M1049305\source\repos\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
