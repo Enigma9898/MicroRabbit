@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IHgF3Rahgu9/ExRACRTzBFgtKBbN5/zvfsUEViwiK6SkbsM7XEcLyQ25xTz7+Q8p3vMxAxToco+XVoAwP0zfew==",
+  "dgSpecHash": "XhufkmLstVVUb5tRLkie1zc5/EulL3QwM0OKWjsaWkuFXro5rdnQIRh4KU400dWk53C2rcCgSFfQloE7a5dDtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\M1049305\\source\\repos\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\M1049305\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\M1049305\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
-    "C:\\Users\\M1049305\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512"
+    "C:\\Users\\M1049305\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\M1049305\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\M1049305\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\M1049305\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
